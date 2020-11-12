@@ -1,0 +1,17 @@
+{
+  "name": "getting-started-with-eleventy",
+  "version": "1.0.0",
+  "description": "My code as I followed along with the Getting Started with Eleventy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "Maxim Orlov <maximorl@gmail.com> (https://github.com/Maximization)",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
